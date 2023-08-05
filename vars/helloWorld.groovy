@@ -1,3 +1,3 @@
-def call() {                                                #def call() syntx to call function in grovvy 
+def call() {                                                
     sh 'echo Hi from deveops team'
 }
